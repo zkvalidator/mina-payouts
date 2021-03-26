@@ -1,8 +1,9 @@
 Payout details
 --------------
 
-| B62qpSsTVvVXnt9f8tPor2fLNZD9bHtpUM4NBwdDVSPoC4HXPaHREyQ | 156469944195  | 100000000 |
+| Public key                                              | Amount        | Fee       |
 |---------------------------------------------------------|---------------|-----------|
+| B62qpSsTVvVXnt9f8tPor2fLNZD9bHtpUM4NBwdDVSPoC4HXPaHREyQ | 156469944195  | 100000000 |
 | B62qiuqZjBn29vKLHgDffoyYCzvn3iqciQd1LqtMKKii6VJgZfM4cTm | 4741513431    | 100000000 |
 | B62qqrJBL4dJcHBRCxXRkCbYfBXqhRHRPS6dnPtbumAeKhMmWzQ3c4b | 1359233858364 | 100000000 |
 | B62qjprTZdUaTRW9g2RMLs5LQ37BiHmb6hoh9kFAwq4jp9mrg4fLJvK | 1359233858364 | 100000000 |

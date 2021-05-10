@@ -14,5 +14,3 @@ Payouts
 =======
 
 The repository contains directories in the format of "start block number - end block number (inclusive)". Each directory contains the outputs of the payout script and a table of the payouts, with amounts specified in nanomina.
-
-[0-2785](0-2785)

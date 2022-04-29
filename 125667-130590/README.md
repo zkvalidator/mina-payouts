@@ -1,0 +1,32 @@
+| Public Key                                              | Amount       | Fee      |
+|---------------------------------------------------------|--------------|-----------|
+| B62qrV2oyYf84jZbQHdqH2TyUndafsL134WMpf5yDafmQ6ZGMxUiTmF |  279859723609  | 100000000 |
+| B62qpSsTVvVXnt9f8tPor2fLNZD9bHtpUM4NBwdDVSPoC4HXPaHREyQ |  304737152280  | 100000000 |
+| B62qiuqZjBn29vKLHgDffoyYCzvn3iqciQd1LqtMKKii6VJgZfM4cTm |  18760998788   | 100000000 |
+| B62qqrJBL4dJcHBRCxXRkCbYfBXqhRHRPS6dnPtbumAeKhMmWzQ3c4b | 1433874416721  | 100000000 |
+| B62qjprTZdUaTRW9g2RMLs5LQ37BiHmb6hoh9kFAwq4jp9mrg4fLJvK | 1433874425219  | 100000000 |
+| B62qrHzjcZbYSsrcXVgGko7go1DzSEBfdQGPon5X4LEGExtNJZA4ECj |    29711414    | 100000000 |
+| B62qoBXv2eZ4P1yD4ZMXrAo8YQSfZ92ZAAGKb7cZT5nFa9cN33YD2ff |  74942296594   | 100000000 |
+| B62qnmoXDcF4X82pyozed2uo3oBfHiejuUzkNiB9sR7zP2vpKYZSrKf |     370606     | 100000000 |
+| B62qoakcciNYRgJUwwN5bhK95ga9VifTXtuRHb4wQR3pUjz9UpQmZx3 |    21336728    | 100000000 |
+| B62qncDQDaDrCMaqt17gPYiE9huNXrbB73bjXM95rfZZTh7jw2f9EvR |   730818262    | 100000000 |
+| B62qqxMs8RPd1U3P5XH2zMbWyMe89NbsrvvmWUwVVQgP9mNwZFVAGAx |   2932590766   | 100000000 |
+| B62qn5LEm5AUDFa9i6bQ2aciGBufxbt9JUvpF6YDAEgWQqQqn2MSnr7 |  91965237331   | 100000000 |
+| B62qj1fyzwpzdnesmZSmnB1wGc5Rze69GjyVp3Vftt6J1ed9dyV1BT9 |   235637616    | 100000000 |
+| B62qkUKHfbwwfxYkJsjFdJn4R6ZBuhS6dRX1yWcQ2WnDGYtvq74jE4Y |   7030726332   | 100000000 |
+| B62qnTJ2uEYsqzGJ5ERYjhtmkzkjUiUQspbgJgaxd11mD7QGGTcCrNU |    27271283    | 100000000 |
+| B62qoNQAsJFz1iRV4g5Rt44j1zgsWUJ2PgWVTZju8nKJuscKMDsJbNw |  48837606904   | 100000000 |
+| B62qkvaLFTw2kK4zifTwjg4SiaRMm6AC23znU5Qe5gi4HBvr4uBLEQu |    78165933    | 100000000 |
+| B62qqWa5vhJ7x8NrhJYKPNZUB7X1jKSNVoYrfAVYTkfn5RbDiPhxEiz |   174372637    | 100000000 |
+| B62qnPAWJBxFVPTyFGpgVi3WLDGFnqnZovgCMU9noiCzuDEnckH18ZA | 23024399658759 | 100000000 |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 23024399658759 | 100000000 |
+| B62qno3zBRFKJ8c8p2SRnP7vrkoGUhzhX3ovkRLsWAyzZ2cQWRovcdr | 2964786975079  | 100000000 |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 2964786975079  | 100000000 |
+| B62qjrbTNkRNJgFksFq5QKLMe1oJQ9w2SRtnyWPwqpffFfgV2GtubWF | 2443555378274  | 100000000 |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 2443555378274  | 100000000 |
+| B62qn9Xa8EhT7H2W62Z3LivRvtkwv48dBFL9qDviWs8fzMjz73upbmW | 1082145642862  | 100000000 |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 1082145642862  | 100000000 |
+
+
+
+Total: 62727.888168971

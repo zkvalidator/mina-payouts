@@ -1,0 +1,35 @@
+| publicKey                                               | amount         | fee       | amountMina      | feeMina |
+|---------------------------------------------------------|----------------|-----------|-----------------|---------|
+| B62qnPAWJBxFVPTyFGpgVi3WLDGFnqnZovgCMU9noiCzuDEnckH18ZA | 19576994826038 | 100000000 | 19576.994826038 | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 19576994826037 | 100000000 | 19576.994826037 | 0.1     |
+| B62qimSXq2Jp9Fx8HGg3nStk5UCAQNKhpbB8M8QR787RRmpHKGqgZ3P | 2932745660022  | 100000000 | 2932.745660022  | 0.1     |
+| B62qno3zBRFKJ8c8p2SRnP7vrkoGUhzhX3ovkRLsWAyzZ2cQWRovcdr | 2520874384720  | 100000000 | 2520.87438472   | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 2520874384719  | 100000000 | 2520.874384719  | 0.1     |
+| B62qnDCGgbS3RwyV1EqGrktyiirSKr1WPpGHz4kA7EXXNgmaK57QWrL | 2556323363370  | 100000000 | 2556.32336337   | 0.1     |
+| B62qjrbTNkRNJgFksFq5QKLMe1oJQ9w2SRtnyWPwqpffFfgV2GtubWF | 2077685922978  | 100000000 | 2077.685922978  | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 2077685922977  | 100000000 | 2077.685922977  | 0.1     |
+| B62qp4fLmc3ZAZxUEp1PFkiepktWS6M2UcKrLqhUmLr96BBfPK7DUdo | 1925366896635  | 100000000 | 1925.366896635  | 0.1     |
+| B62qjprTZdUaTRW9g2RMLs5LQ37BiHmb6hoh9kFAwq4jp9mrg4fLJvK | 971533120066   | 100000000 | 971.533120066   | 0.1     |
+| B62qqrJBL4dJcHBRCxXRkCbYfBXqhRHRPS6dnPtbumAeKhMmWzQ3c4b | 971533112855   | 100000000 | 971.533112855   | 0.1     |
+| B62qn9Xa8EhT7H2W62Z3LivRvtkwv48dBFL9qDviWs8fzMjz73upbmW | 920117787947   | 100000000 | 920.117787947   | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 920117787947   | 100000000 | 920.117787947   | 0.1     |
+| B62qoBXv2eZ4P1yD4ZMXrAo8YQSfZ92ZAAGKb7cZT5nFa9cN33YD2ff | 614984701890   | 100000000 | 614.98470189    | 0.1     |
+| B62qpSsTVvVXnt9f8tPor2fLNZD9bHtpUM4NBwdDVSPoC4HXPaHREyQ | 274751304073   | 100000000 | 274.751304073   | 0.1     |
+| B62qmg4J36s5KkEJRKzBR8rDCAhK5iJRyDyBeDZEWiWL84m3hGHwY1o | 107546690068   | 100000000 | 107.546690068   | 0.1     |
+| B62qn5LEm5AUDFa9i6bQ2aciGBufxbt9JUvpF6YDAEgWQqQqn2MSnr7 | 87137441756    | 100000000 | 87.137441756    | 0.1     |
+| B62qoNQAsJFz1iRV4g5Rt44j1zgsWUJ2PgWVTZju8nKJuscKMDsJbNw | 42442104238    | 100000000 | 42.442104238    | 0.1     |
+| B62qiuqZjBn29vKLHgDffoyYCzvn3iqciQd1LqtMKKii6VJgZfM4cTm | 16304162490    | 100000000 | 16.30416249     | 0.1     |
+| B62qkUKHfbwwfxYkJsjFdJn4R6ZBuhS6dRX1yWcQ2WnDGYtvq74jE4Y | 6083558508     | 100000000 | 6.083558508     | 0.1     |
+| B62qpCouu79Hvxy5Z8Fqf86KrzkKogaNpNQamEKnDBh3Qhzs42ZAZVE | 4938662023     | 100000000 | 4.938662023     | 0.1     |
+| B62qqxMs8RPd1U3P5XH2zMbWyMe89NbsrvvmWUwVVQgP9mNwZFVAGAx | 2548558131     | 100000000 | 2.548558131     | 0.1     |
+| B62qoByz7CXbQmwThkrXGCuxkCazZAdozsHaizesWEyH13bVtMrgBcE | 1134253696     | 100000000 | 1.134253696     | 0.1     |
+| B62qncDQDaDrCMaqt17gPYiE9huNXrbB73bjXM95rfZZTh7jw2f9EvR | 635114286      | 100000000 | 0.635114286     | 0.1     |
+| B62qj1fyzwpzdnesmZSmnB1wGc5Rze69GjyVp3Vftt6J1ed9dyV1BT9 | 204779788      | 100000000 | 0.204779788     | 0.1     |
+| B62qqWa5vhJ7x8NrhJYKPNZUB7X1jKSNVoYrfAVYTkfn5RbDiPhxEiz | 151539163      | 100000000 | 0.151539163     | 0.1     |
+| B62qkvaLFTw2kK4zifTwjg4SiaRMm6AC23znU5Qe5gi4HBvr4uBLEQu | 67929718       | 100000000 | 0.067929718     | 0.1     |
+| B62qrHzjcZbYSsrcXVgGko7go1DzSEBfdQGPon5X4LEGExtNJZA4ECj | 29220371       | 100000000 | 0.029220371     | 0.1     |
+| B62qnTJ2uEYsqzGJ5ERYjhtmkzkjUiUQspbgJgaxd11mD7QGGTcCrNU | 23699912       | 100000000 | 0.023699912     | 0.1     |
+| B62qoakcciNYRgJUwwN5bhK95ga9VifTXtuRHb4wQR3pUjz9UpQmZx3 | 17076226       | 100000000 | 0.017076226     | 0.1     |
+| B62qnmoXDcF4X82pyozed2uo3oBfHiejuUzkNiB9sR7zP2vpKYZSrKf | 322084         | 100000000 | 0.000322084     | 0.1     |
+
+Total: 60710.949114732

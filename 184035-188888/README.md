@@ -1,0 +1,42 @@
+# Epoch 38
+
+| publicKey                                               | amount         | fee       | amountMina      | feeMina |
+|---------------------------------------------------------|----------------|-----------|-----------------|---------|
+| B62qnPAWJBxFVPTyFGpgVi3WLDGFnqnZovgCMU9noiCzuDEnckH18ZA | 25456818078315 | 100000000 | 25456.818078315 | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 25456818078314 | 100000000 | 25456.818078314 | 0.1     |
+| B62qno3zBRFKJ8c8p2SRnP7vrkoGUhzhX3ovkRLsWAyzZ2cQWRovcdr | 3278002634218  | 100000000 | 3278.002634218  | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 3278002634218  | 100000000 | 3278.002634218  | 0.1     |
+| B62qjrbTNkRNJgFksFq5QKLMe1oJQ9w2SRtnyWPwqpffFfgV2GtubWF | 2701705396283  | 100000000 | 2701.705396283  | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 2701705396282  | 100000000 | 2701.705396282  | 0.1     |
+| B62qn9Xa8EhT7H2W62Z3LivRvtkwv48dBFL9qDviWs8fzMjz73upbmW | 1196469189795  | 100000000 | 1196.469189795  | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 1196469189795  | 100000000 | 1196.469189795  | 0.1     |
+| B62qjprTZdUaTRW9g2RMLs5LQ37BiHmb6hoh9kFAwq4jp9mrg4fLJvK | 929748968257   | 100000000 | 929.748968257   | 0.1     |
+| B62qqrJBL4dJcHBRCxXRkCbYfBXqhRHRPS6dnPtbumAeKhMmWzQ3c4b | 929748959260   | 100000000 | 929.74895926    | 0.1     |
+| B62qoBXv2eZ4P1yD4ZMXrAo8YQSfZ92ZAAGKb7cZT5nFa9cN33YD2ff | 865773681323   | 100000000 | 865.773681323   | 0.1     |
+| B62qpSsTVvVXnt9f8tPor2fLNZD9bHtpUM4NBwdDVSPoC4HXPaHREyQ | 342829977889   | 100000000 | 342.829977889   | 0.1     |
+| B62qn5LEm5AUDFa9i6bQ2aciGBufxbt9JUvpF6YDAEgWQqQqn2MSnr7 | 188179818049   | 100000000 | 188.179818049   | 0.1     |
+| B62qmg4J36s5KkEJRKzBR8rDCAhK5iJRyDyBeDZEWiWL84m3hGHwY1o | 143600206911   | 100000000 | 143.600206911   | 0.1     |
+| B62qoNQAsJFz1iRV4g5Rt44j1zgsWUJ2PgWVTZju8nKJuscKMDsJbNw | 92565381684    | 100000000 | 92.565381684    | 0.1     |
+| B62qkCLxjMAUEaYbatpEvrGGPdUgdtR8FtdPEXYKjfwQQ4iYPrh53Yn | 52376351397    | 100000000 | 52.376351397    | 0.1     |
+| B62qiuqZjBn29vKLHgDffoyYCzvn3iqciQd1LqtMKKii6VJgZfM4cTm | 21770484412    | 100000000 | 21.770484412    | 0.1     |
+| B62qkUKHfbwwfxYkJsjFdJn4R6ZBuhS6dRX1yWcQ2WnDGYtvq74jE4Y | 19522230744    | 100000000 | 19.522230744    | 0.1     |
+| B62qjDUpfnh2HkPZ3F1S67sf3C7b7BprgCrTBBKygjpBs9rm2yTK6fb | 17414445391    | 100000000 | 17.414445391    | 0.1     |
+| B62qpmp8PNoYFFqc3yvKMPyfh6UPvcNywwXzDce8ppgzZL44z2gSWL2 | 4731382971     | 100000000 | 4.731382971     | 0.1     |
+| B62qpCouu79Hvxy5Z8Fqf86KrzkKogaNpNQamEKnDBh3Qhzs42ZAZVE | 4467811502     | 100000000 | 4.467811502     | 0.1     |
+| B62qqxMs8RPd1U3P5XH2zMbWyMe89NbsrvvmWUwVVQgP9mNwZFVAGAx | 3403015300     | 100000000 | 3.4030153       | 0.1     |
+| B62qoByz7CXbQmwThkrXGCuxkCazZAdozsHaizesWEyH13bVtMrgBcE | 1514910603     | 100000000 | 1.514910603     | 0.1     |
+| B62qrW516ubKeuMzKFtSVXSSjcRmFxLhp4H19c4tdpnfDCngdjgJpZG | 1204456482     | 100000000 | 1.204456482     | 0.1     |
+| B62qncDQDaDrCMaqt17gPYiE9huNXrbB73bjXM95rfZZTh7jw2f9EvR | 848049556      | 100000000 | 0.848049556     | 0.1     |
+| B62qj1fyzwpzdnesmZSmnB1wGc5Rze69GjyVp3Vftt6J1ed9dyV1BT9 | 273436499      | 100000000 | 0.273436499     | 0.1     |
+| B62qqWa5vhJ7x8NrhJYKPNZUB7X1jKSNVoYrfAVYTkfn5RbDiPhxEiz | 202345815      | 100000000 | 0.202345815     | 0.1     |
+| B62qkvaLFTw2kK4zifTwjg4SiaRMm6AC23znU5Qe5gi4HBvr4uBLEQu | 90704635       | 100000000 | 0.090704635     | 0.1     |
+| B62qrQgU2j6VcNkxAAn5DAxwDGrkfHDkHbKYYw4GrSHLwkSBR5TY6sw | 77274095       | 100000000 | 0.077274095     | 0.1     |
+| B62qrHzjcZbYSsrcXVgGko7go1DzSEBfdQGPon5X4LEGExtNJZA4ECj | 45845194       | 100000000 | 0.045845194     | 0.1     |
+| B62qpWXotB5hSeCJpk4i8xfPhUpWYFEQSLeYRLuGXcdFB35588y6tD3 | 35270731       | 100000000 | 0.035270731     | 0.1     |
+| B62qnTJ2uEYsqzGJ5ERYjhtmkzkjUiUQspbgJgaxd11mD7QGGTcCrNU | 31645862       | 100000000 | 0.031645862     | 0.1     |
+| B62qoakcciNYRgJUwwN5bhK95ga9VifTXtuRHb4wQR3pUjz9UpQmZx3 | 22801302       | 100000000 | 0.022801302     | 0.1     |
+| B62qrBJJTGXYRJHCSoSfy8WjiqnfFoLaA6SuveNYKg5ZzbN7VKGidbt | 1490835        | 100000000 | 0.001490835     | 0.1     |
+| B62qnmoXDcF4X82pyozed2uo3oBfHiejuUzkNiB9sR7zP2vpKYZSrKf | 430036         | 100000000 | 0.000430036     | 0.1     |
+| B62qr98iViE1Lw3y3PnHUiFCSu4SwRoFU4DDJMjQF5KEsRRHirDDqDt | 48533          | 100000000 | 0.000048533     | 0.1     |
+
+Total: 68890.07202248

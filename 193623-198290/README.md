@@ -1,0 +1,42 @@
+# Epoch 40
+
+| publicKey                                               | amount         | fee       | amountMina      | feeMina |
+|---------------------------------------------------------|----------------|-----------|-----------------|---------|
+| B62qnPAWJBxFVPTyFGpgVi3WLDGFnqnZovgCMU9noiCzuDEnckH18ZA | 30706228380243 | 100000000 | 30706.228380243 | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 30706228380243 | 100000000 | 30706.228380243 | 0.1     |
+| B62qno3zBRFKJ8c8p2SRnP7vrkoGUhzhX3ovkRLsWAyzZ2cQWRovcdr | 3953954386888  | 100000000 | 3953.954386888  | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 3953954386887  | 100000000 | 3953.954386887  | 0.1     |
+| B62qjrbTNkRNJgFksFq5QKLMe1oJQ9w2SRtnyWPwqpffFfgV2GtubWF | 3258819804538  | 100000000 | 3258.819804538  | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 3258819804538  | 100000000 | 3258.819804538  | 0.1     |
+| B62qn9Xa8EhT7H2W62Z3LivRvtkwv48dBFL9qDviWs8fzMjz73upbmW | 1443191214177  | 100000000 | 1443.191214177  | 0.1     |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 1443191214177  | 100000000 | 1443.191214177  | 0.1     |
+| B62qjprTZdUaTRW9g2RMLs5LQ37BiHmb6hoh9kFAwq4jp9mrg4fLJvK | 1125012239928  | 100000000 | 1125.012239928  | 0.1     |
+| B62qqrJBL4dJcHBRCxXRkCbYfBXqhRHRPS6dnPtbumAeKhMmWzQ3c4b | 1125012228963  | 100000000 | 1125.012228963  | 0.1     |
+| B62qoBXv2eZ4P1yD4ZMXrAo8YQSfZ92ZAAGKb7cZT5nFa9cN33YD2ff | 1146055660607  | 100000000 | 1146.055660607  | 0.1     |
+| B62qpSsTVvVXnt9f8tPor2fLNZD9bHtpUM4NBwdDVSPoC4HXPaHREyQ | 414830753043   | 100000000 | 414.830753043   | 0.1     |
+| B62qn5LEm5AUDFa9i6bQ2aciGBufxbt9JUvpF6YDAEgWQqQqn2MSnr7 | 228527560406   | 100000000 | 228.527560406   | 0.1     |
+| B62qmg4J36s5KkEJRKzBR8rDCAhK5iJRyDyBeDZEWiWL84m3hGHwY1o | 174389641555   | 100000000 | 174.389641555   | 0.1     |
+| B62qoNQAsJFz1iRV4g5Rt44j1zgsWUJ2PgWVTZju8nKJuscKMDsJbNw | 112412377780   | 100000000 | 112.41237778    | 0.1     |
+| B62qkCLxjMAUEaYbatpEvrGGPdUgdtR8FtdPEXYKjfwQQ4iYPrh53Yn | 63357950478    | 100000000 | 63.357950478    | 0.1     |
+| B62qiuqZjBn29vKLHgDffoyYCzvn3iqciQd1LqtMKKii6VJgZfM4cTm | 26438311330    | 100000000 | 26.43831133     | 0.1     |
+| B62qkUKHfbwwfxYkJsjFdJn4R6ZBuhS6dRX1yWcQ2WnDGYtvq74jE4Y | 23708953287    | 100000000 | 23.708953287    | 0.1     |
+| B62qjDUpfnh2HkPZ3F1S67sf3C7b7BprgCrTBBKygjpBs9rm2yTK6fb | 21148280283    | 100000000 | 21.148280283    | 0.1     |
+| B62qkPWF3H4GfmiXQS8B3vkLopUXKWwuaFHHRK8LyNokCi5dvhKvAwT | 12442800361    | 100000000 | 12.442800361    | 0.1     |
+| B62qpmp8PNoYFFqc3yvKMPyfh6UPvcNywwXzDce8ppgzZL44z2gSWL2 | 5745996441     | 100000000 | 5.745996441     | 0.1     |
+| B62qqxMs8RPd1U3P5XH2zMbWyMe89NbsrvvmWUwVVQgP9mNwZFVAGAx | 4132658514     | 100000000 | 4.132658514     | 0.1     |
+| B62qpCouu79Hvxy5Z8Fqf86KrzkKogaNpNQamEKnDBh3Qhzs42ZAZVE | 2752400533     | 100000000 | 2.752400533     | 0.1     |
+| B62qoByz7CXbQmwThkrXGCuxkCazZAdozsHaizesWEyH13bVtMrgBcE | 1839723729     | 100000000 | 1.839723729     | 0.1     |
+| B62qrW516ubKeuMzKFtSVXSSjcRmFxLhp4H19c4tdpnfDCngdjgJpZG | 1462704909     | 100000000 | 1.462704909     | 0.1     |
+| B62qncDQDaDrCMaqt17gPYiE9huNXrbB73bjXM95rfZZTh7jw2f9EvR | 1029880550     | 100000000 | 1.02988055      | 0.1     |
+| B62qj1fyzwpzdnesmZSmnB1wGc5Rze69GjyVp3Vftt6J1ed9dyV1BT9 | 332064212      | 100000000 | 0.332064212     | 0.1     |
+| B62qqWa5vhJ7x8NrhJYKPNZUB7X1jKSNVoYrfAVYTkfn5RbDiPhxEiz | 245730933      | 100000000 | 0.245730933     | 0.1     |
+| B62qrQgU2j6VcNkxAAn5DAxwDGrkfHDkHbKYYw4GrSHLwkSBR5TY6sw | 130202403      | 100000000 | 0.130202403     | 0.1     |
+| B62qkvaLFTw2kK4zifTwjg4SiaRMm6AC23znU5Qe5gi4HBvr4uBLEQu | 110152632      | 100000000 | 0.110152632     | 0.1     |
+| B62qrHzjcZbYSsrcXVgGko7go1DzSEBfdQGPon5X4LEGExtNJZA4ECj | 63784258       | 100000000 | 0.063784258     | 0.1     |
+| B62qpWXotB5hSeCJpk4i8xfPhUpWYFEQSLeYRLuGXcdFB35588y6tD3 | 42833302       | 100000000 | 0.042833302     | 0.1     |
+| B62qnTJ2uEYsqzGJ5ERYjhtmkzkjUiUQspbgJgaxd11mD7QGGTcCrNU | 38431025       | 100000000 | 0.038431025     | 0.1     |
+| B62qoakcciNYRgJUwwN5bhK95ga9VifTXtuRHb4wQR3pUjz9UpQmZx3 | 27690131       | 100000000 | 0.027690131     | 0.1     |
+| B62qrBJJTGXYRJHCSoSfy8WjiqnfFoLaA6SuveNYKg5ZzbN7VKGidbt | 1810388        | 100000000 | 0.001810388     | 0.1     |
+| B62qnmoXDcF4X82pyozed2uo3oBfHiejuUzkNiB9sR7zP2vpKYZSrKf | 522328         | 100000000 | 0.000522328     | 0.1     |
+
+Total: 83219.280916

@@ -69,3 +69,5 @@
 | B62qrBJJTGXYRJHCSoSfy8WjiqnfFoLaA6SuveNYKg5ZzbN7VKGidbt | 1651587        | 100000000 | 0.001651587     | 0.1     |
 | B62qnmoXDcF4X82pyozed2uo3oBfHiejuUzkNiB9sR7zP2vpKYZSrKf | 476427         | 100000000 | 0.000476427     | 0.1     |
 | B62qr98iViE1Lw3y3PnHUiFCSu4SwRoFU4DDJMjQF5KEsRRHirDDqDt | 359            | 100000000 | 3.59e-7         | 0.1     |
+
+Total: 71485.219545808 

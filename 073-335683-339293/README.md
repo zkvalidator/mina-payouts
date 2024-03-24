@@ -1,0 +1,116 @@
+# Epoch 73
+
+| publicKey                                               | amount         | fee      | amountMina      | feeMina | memo                             | summaryGroup |
+|---------------------------------------------------------|----------------|----------|-----------------|---------|----------------------------------|--------------|
+| B62qnPAWJBxFVPTyFGpgVi3WLDGFnqnZovgCMU9noiCzuDEnckH18ZA | 29622707193682 | 20000000 | 29622.707193682 | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 29622707193681 | 20000000 | 29622.707193681 | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqmUDB67Q7nTZx7x2EJWMAPxDf52fGqhinFXHmTy9rGMG8uyNHgB | 5228055056318  | 20000000 | 5228.055056318  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoUVTKseKucekfhegBxuaMkoJ37ThTE12gpGWjExV4UZvhqZD6w9 | 2394840876400  | 20000000 | 2394.8408764    | 0.02    | 18ffb511b457d03cfc5537696f6faadc |              |
+| B62qkTGA1Js2sKBKfJZvMTfuTUWkCBJgsLgBqaPh82w1KcT7YbcDnjT | 4579396106022  | 20000000 | 4579.396106022  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiw6FVYgc41gJJmh7w8CTQH8vd94uVR7L9j88xNrhGvZJ5vS74og | 1988586840170  | 20000000 | 1988.58684017   | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qno3zBRFKJ8c8p2SRnP7vrkoGUhzhX3ovkRLsWAyzZ2cQWRovcdr | 1935207238492  | 20000000 | 1935.207238492  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 1935207238492  | 20000000 | 1935.207238492  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoRszAA6inp6pv8nTNw7LaRWEuPL1FRxKBXarDDaZLrEK695PsPD | 1608401507510  | 20000000 | 1608.40150751   | 0.02    | 18ffb511b457d03cfc5537696f6faadc |              |
+| B62qjrbTNkRNJgFksFq5QKLMe1oJQ9w2SRtnyWPwqpffFfgV2GtubWF | 1594980856862  | 20000000 | 1594.980856862  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 1594980856861  | 20000000 | 1594.980856861  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qn9Xa8EhT7H2W62Z3LivRvtkwv48dBFL9qDviWs8fzMjz73upbmW | 1392265772996  | 20000000 | 1392.265772996  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 1392265772995  | 20000000 | 1392.265772995  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoBXv2eZ4P1yD4ZMXrAo8YQSfZ92ZAAGKb7cZT5nFa9cN33YD2ff | 1917391450379  | 20000000 | 1917.391450379  | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qpSsTVvVXnt9f8tPor2fLNZD9bHtpUM4NBwdDVSPoC4HXPaHREyQ | 396920445750   | 20000000 | 396.92044575    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qjfpVTExVXjaCDEkK5un2qUWxE7QhD1SiYzMW6SED28WDfXsoDi8 | 226405530120   | 20000000 | 226.40553012    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qixdvWDXeGuYNG9MmTVgXxsok8qVkp6bYgXxrYdiY7gZU88X6kY7 | 129472842468   | 20000000 | 129.472842468   | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqCSW56vttgwkof6zFGuqomVcAEYy3tPomayDqfkcig8yvCWt5pn | 123625340994   | 20000000 | 123.625340994   | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoHdmdju9E8iFjoNvRdW5iB6G75MoCKs3GGbDVxAZnsZ9VJj8kRk | 53689296867    | 20000000 | 53.689296867    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkPn4ySTX3eMRvU4vvn7pLUHg3s1bvcpadSrFC29PWPrc7uTfBNH | 52125241786    | 20000000 | 52.125241786    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qpJ8znTiBDmWT7r1YLHZZM6HazzHMcjT5bQCb3Zyo7VLVG4XN1f6 | 50760997368    | 20000000 | 50.760997368    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qjBmrdByznkZkmRUFTtMgvtXSLkB2AvRsyjfc4upjVs1NMGqaSK6 | 49954738353    | 20000000 | 49.954738353    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkCLxjMAUEaYbatpEvrGGPdUgdtR8FtdPEXYKjfwQQ4iYPrh53Yn | 49951725448    | 20000000 | 49.951725448    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qopxwDjZVP2dZE3ai6rhZBa7ijhjrUE2A5RaJfCkNFTciLhNZUHV | 45016910254    | 20000000 | 45.016910254    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoN6BCb9i5UAffSVcHwsioGxHCyfeWKrtgKi7sgfcqkD9QFzCEb9 | 37729310559    | 20000000 | 37.729310559    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qowhRUm3H9MyhXgpTubudN1Z6jmTjVyHSJjS2kHMv5iZKNKhz1Sx | 37552937629    | 20000000 | 37.552937629    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qp5z7ZpKU7oS5sBWvew6LRQqtk9SdD1DoMA1GnscRNtgNxhRzz6C | 37055978320    | 20000000 | 37.05597832     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiuqZjBn29vKLHgDffoyYCzvn3iqciQd1LqtMKKii6VJgZfM4cTm | 29061909403    | 20000000 | 29.061909403    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkUKHfbwwfxYkJsjFdJn4R6ZBuhS6dRX1yWcQ2WnDGYtvq74jE4Y | 26076050980    | 20000000 | 26.07605098     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qjDUpfnh2HkPZ3F1S67sf3C7b7BprgCrTBBKygjpBs9rm2yTK6fb | 23259728959    | 20000000 | 23.259728959    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkSzgDo9UsfFASQd5SngiezV2QSCYin7DpKug6H84suKr1mMfsyu | 17612474111    | 20000000 | 17.612474111    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkPWF3H4GfmiXQS8B3vkLopUXKWwuaFHHRK8LyNokCi5dvhKvAwT | 17268898624    | 20000000 | 17.268898624    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qobj9csfD6J7fMM4mQjCRWm5mHpkazBBcy9bRoFaeS17VZcQVDLp | 12190969867    | 20000000 | 12.190969867    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrFYcwPYDiEgPQWHTWTbscMN5KtbsMQgUdys5fZYdamZQNJbM4MN | 11792538630    | 20000000 | 11.79253863     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrK9qi8Lz3vgjDurQRXd14TeZwD7du3HZ8RiYpD4KYTAHVq7rX3g | 10417991166    | 20000000 | 10.417991166    | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qomPtsDrTfhq72ex9e7DaCFA5TgPBLweBim8Gaz1oqBMetzAtQUD | 9893285766     | 20000000 | 9.893285766     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiqzA1HaNciXubzkTzvmYk9V4xVYwNnHcsQo99ioA7YiLVS2yvwD | 9688792061     | 20000000 | 9.688792061     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqjGEJVDYEXzm16BuCer9AgCsiLWknR5S4XDf1Z5TL9WcDxdtrPB | 9148071540     | 20000000 | 9.14807154      | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qnFpNaGRtfJQEcHgFmQvQjN3Aa326Ca6TKzxsn4vS3hZNpbJAEHv | 8269473818     | 20000000 | 8.269473818     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrPuFF9ASzKPSo4BRcxtLDEPHF32KHf6bKjDK7q2sg11qikPnVXt | 7610728391     | 20000000 | 7.610728391     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qobemaSpNVdYWHAqUJAaqaEih8GhYy2jdyATHSf5nmgyJvxoA358 | 6346171239     | 20000000 | 6.346171239     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qn5LEm5AUDFa9i6bQ2aciGBufxbt9JUvpF6YDAEgWQqQqn2MSnr7 | 6321634073     | 20000000 | 6.321634073     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqkWDTjiQU1FGe3KxuVMrEeKPv318pJRGNgohPWg626xqzyQZuzb | 5186098699     | 20000000 | 5.186098699     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qjEMSUZmUT94jHGNRKN7vYSXUpMFCGGPjAfr9pvhzTP3YSo3LNgg | 4962823110     | 20000000 | 4.96282311      | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qj3Xr8WdT12xQxbCBBiX3RcyvMcS3Ww62TM2oYygjSKmYj5K3rGM | 4631669745     | 20000000 | 4.631669745     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqxMs8RPd1U3P5XH2zMbWyMe89NbsrvvmWUwVVQgP9mNwZFVAGAx | 4545262535     | 20000000 | 4.545262535     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qpCouu79Hvxy5Z8Fqf86KrzkKogaNpNQamEKnDBh3Qhzs42ZAZVE | 4214108978     | 20000000 | 4.214108978     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qn85yzSi39JYSkZrQ9Z121ivVtqyXX5TJS6HHFkfHsLEchnk5Kv7 | 3235077204     | 20000000 | 3.235077204     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qmpkyeuPjEzC1kpcrpAxFx25cmCHLp27JdEgTHCPQgYHu8AMoBAk | 3200000478     | 20000000 | 3.200000478     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qmMVGvFDqsjVHhA4x3NR5VUGSc3Kvtqz2mArKgd2CWSk8VZR7CHj | 3199720820     | 20000000 | 3.19972082      | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qp2BCxTRXj1LiSCbGxUiSL5ozKNkd6B81VdbcUB7j35845uvSg2a | 3199366513     | 20000000 | 3.199366513     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqxKmQDckYfDELY2US3CK3rPAZ8KKeyUhvRonRyCij8b3vQDwFVn | 3159292681     | 20000000 | 3.159292681     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoBvFPB983coSuSpNraWMi7S9nDZaXDuZPCB7vKhNsAjLSauDm4Z | 3118233281     | 20000000 | 3.118233281     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qpQrdiMA9RUbnESahpNMZBN7p9xYNSPGJXpuxwuCbFRAfzsR9L8t | 3042752093     | 20000000 | 3.042752093     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkRCWNKxpVToUpWtcQxoPUhtQ7mS6dy21DYV9WyqU3xMW185ReqF | 2904111633     | 20000000 | 2.904111633     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrKuJNVYcT2kvomAbzF2FPqex7MMppBWohnLs19ECmLA1V5mDxeB | 2627426912     | 20000000 | 2.627426912     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qjoVJZ6885kVyuxf6ZZ9HGXAiwyQSGfDqzn36b6do5v7jPcqBTFL | 2339770629     | 20000000 | 2.339770629     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qjGVh86YKSvvNiJJ3wan3CDUuF6rBMsteDgW9CJdm8pLTFkNMKWJ | 2268822507     | 20000000 | 2.268822507     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoByz7CXbQmwThkrXGCuxkCazZAdozsHaizesWEyH13bVtMrgBcE | 2023401508     | 20000000 | 2.023401508     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qks5TgKbUE6yoye52k8xdnoyYqoYkrpQ1oxALKEAmzvYPHWLfW5A | 1885977686     | 20000000 | 1.885977686     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqAMj2E51LkjP9wox1vU1t2AamTNRVEGzqynd7LutP6NmqFENrUc | 1846081371     | 20000000 | 1.846081371     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qnEL2LBUSb6V48TUiEPQB6u8gS8pudYvv44darKNoJo62Cd6S9zB | 1793918177     | 20000000 | 1.793918177     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrkGC7rboczz3Aihm1brFU7RqW1vS7MzJNsDZ6RGi96p7r3JdEmt | 1754870732     | 20000000 | 1.754870732     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qpkdEvMWkQa9Nk9cRbt83S6gSFaq5RmAf1hjh5mJ1eE7QgboNwpQ | 1669705262     | 20000000 | 1.669705262     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrW516ubKeuMzKFtSVXSSjcRmFxLhp4H19c4tdpnfDCngdjgJpZG | 1608741150     | 20000000 | 1.60874115      | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qnQz33i8PxPpE2a8wpjz6y8QMMGDjzR1DxqGGFKnuzQQKD6a917B | 1390420683     | 20000000 | 1.390420683     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrHzjcZbYSsrcXVgGko7go1DzSEBfdQGPon5X4LEGExtNJZA4ECj | 1224266890     | 20000000 | 1.22426689      | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkutbGH9H9FTbGpx8Svo27kAPxWXfuCSJdW3D4voNz4umHAAUcUH | 1204001908     | 20000000 | 1.204001908     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qncDQDaDrCMaqt17gPYiE9huNXrbB73bjXM95rfZZTh7jw2f9EvR | 1132703624     | 20000000 | 1.132703624     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qk6eXEg1YdbsXweqh7wXaan9oeKVhDLeeQucgiyrviBAHNmA7mEi | 1109840663     | 20000000 | 1.109840663     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qr2jvBMoCCKiqS13yeR8JfYnhuWXJJqZgeqtuJGWhDxuH7rFTNPb | 1100804320     | 20000000 | 1.10080432      | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiURTspS2rBwhQsRVWU9Lqoeby6Vwvc3P5kGAYz1srn7rysbH78X | 1088395259     | 20000000 | 1.088395259     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkcCK2gs8UwFczi7HBSc4NZVW2pAMJd82zXUojpWTFYFGuZLxrHU | 1056852666     | 20000000 | 1.056852666     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrmnhj5YMwoPUaWJ3TvBsvDtvtwDPCW8wxPBXibFFKE6GkY14KPP | 1012772599     | 20000000 | 1.012772599     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qksueSCayGqToCQ7daThDziJv5zjuGbJQk5HWmW6jK8ZTEqbSTWp | 983168461      | 20000000 | 0.983168461     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoD8Kjb8DmNd9vvczVwcov94xroGJVS8cS4s5pJvULUUgb4rRtrE | 941908458      | 20000000 | 0.941908458     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qq5JxN6Q735HJKGaB9kg3fTiT8RTwxLx4TKreW7p6LHa2EYN51s1 | 905926454      | 20000000 | 0.905926454     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrF1pBtzgrbhJSyQi1ZZ88ribfYV56rs3FfFaBvftD9ZrkAyqPow | 782864832      | 20000000 | 0.782864832     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qj2h7Gwxw8gBLHjj7NJvCyD55v8yN8tvvRGHv4H3aH5EZ7t695DD | 669631766      | 20000000 | 0.669631766     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqv6pWsZrAFLL8Dn4gCy6dV2uepLaWopx2kukoeikkeJos4ewbBt | 547124229      | 20000000 | 0.547124229     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qj1fyzwpzdnesmZSmnB1wGc5Rze69GjyVp3Vftt6J1ed9dyV1BT9 | 365217445      | 20000000 | 0.365217445     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qmUsSVFo5byPiF1K7FppQS6UEq7UhTHZYmCQM7XaTU2w6Fci75CP | 297279206      | 20000000 | 0.297279206     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqWa5vhJ7x8NrhJYKPNZUB7X1jKSNVoYrfAVYTkfn5RbDiPhxEiz | 270264641      | 20000000 | 0.270264641     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qicY3d4UQYwPQQafGP1sVfuz24m9CVwXCtDXFcexrB73qKM77kQ9 | 268238079      | 20000000 | 0.268238079     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qmgxo9bZ8fJXhvk6iBi7vUhmV6Q7c88E9yxBgsB47uFjqN35oRus | 214285600      | 20000000 | 0.2142856       | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrSga935QZvrxZ4iiZ4bge6F3yRzLcorfVWxRzZQd5XyU9bDmScc | 187989368      | 20000000 | 0.187989368     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiX1xtuXeGmvQimNEFMjnwoeW4EKwfVEVRNR3TDawa1yhDCbC6vU | 166057692      | 20000000 | 0.166057692     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqZeDrj6upH6pjbSm8QzsSrQafQ7DqTBvybdWsFn6kGuqj9egfyY | 153012198      | 20000000 | 0.153012198     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qjprTZdUaTRW9g2RMLs5LQ37BiHmb6hoh9kFAwq4jp9mrg4fLJvK | 128433442      | 20000000 | 0.128433442     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qqrJBL4dJcHBRCxXRkCbYfBXqhRHRPS6dnPtbumAeKhMmWzQ3c4b | 128405424      | 20000000 | 0.128405424     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qmThA4eYCuQSZdkfqhrxPJaew1ccrBVCbLLLnhFA6Do2BTZSVS7D | 125236160      | 20000000 | 0.12523616      | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qkvaLFTw2kK4zifTwjg4SiaRMm6AC23znU5Qe5gi4HBvr4uBLEQu | 121150224      | 20000000 | 0.121150224     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qov1eKoDGEFbSGi8NsNfhTzHATzDF1QVgGPbGgFCJYKX8NSVva1T | 100740009      | 20000000 | 0.100740009     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qozUjfy7CgDVcKGsj3P8yhjyzP9zNwkYJZdkaykdys9c2ioExsK4 | 92803156       | 20000000 | 0.092803156     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoaVkBYcs3btfAEGtZiMESRUgBCE7pHriPnBWdSBfSvsLm32FNGr | 85232327       | 20000000 | 0.085232327     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qreM3WDfHjYhADzSi4W5GYFfFsduirnVBrWpQuoPAUSqV1d7FkZS | 80878698       | 20000000 | 0.080878698     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qpTdQw29f4bxgjsn6ipExa1KX5mnF8zr7e3ApMC1JRFPMnkQp4tR | 54250786       | 20000000 | 0.054250786     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qpWXotB5hSeCJpk4i8xfPhUpWYFEQSLeYRLuGXcdFB35588y6tD3 | 47109697       | 20000000 | 0.047109697     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qnTJ2uEYsqzGJ5ERYjhtmkzkjUiUQspbgJgaxd11mD7QGGTcCrNU | 42268042       | 20000000 | 0.042268042     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoakcciNYRgJUwwN5bhK95ga9VifTXtuRHb4wQR3pUjz9UpQmZx3 | 30454658       | 20000000 | 0.030454658     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qj3LBTpF5q6y47QTh2YT7nK6RPpYzBnC5knCt9qPsH3JQCu2JFL9 | 29100813       | 20000000 | 0.029100813     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qmDaTSzyP8bf5eTcMQFu5WDDT8nS4jLtNSpTS1CgQaMDqvs9jTr8 | 15940495       | 20000000 | 0.015940495     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrMq3Bu9wDECxrnhiudtnHN4kLzh9D34fSetrnJyBxj4bk2xYHS3 | 11121487       | 20000000 | 0.011121487     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qoUVTKseKucekfhegBxuaMkoJ37ThTE12gpGWjExV4UZvhqZD6w9 | 4631200        | 20000000 | 0.0046312       | 0.02    | 18ffb511b457d03cfc5537696f6faadc |              |
+| B62qrQgU2j6VcNkxAAn5DAxwDGrkfHDkHbKYYw4GrSHLwkSBR5TY6sw | 2666001        | 20000000 | 0.002666001     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qrBJJTGXYRJHCSoSfy8WjiqnfFoLaA6SuveNYKg5ZzbN7VKGidbt | 1991149        | 20000000 | 0.001991149     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qnmoXDcF4X82pyozed2uo3oBfHiejuUzkNiB9sR7zP2vpKYZSrKf | 574357         | 20000000 | 0.000574357     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qniA81owNsjhQrR1VhZ4mVV8YKT8fsRN7a8FmpA68D7YUMnSHwxE | 153605         | 20000000 | 0.000153605     | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qr98iViE1Lw3y3PnHUiFCSu4SwRoFU4DDJMjQF5KEsRRHirDDqDt | 450            | 20000000 | 4.5e-7          | 0.02    | payout from ZKV kobigurk#4945    |              |
+| B62qiburnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzmp7r7UN6X | 2160000000000  | 20000000 | 2160            | 0.02    | 18ffb511b457d03cfc5537696f6faadc | 1            |
+
+Total: 90551.007378329
